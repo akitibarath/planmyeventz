@@ -1,2 +1,2 @@
 # planmyeventz
-web content repository
+Repository to hold web content
